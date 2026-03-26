@@ -1,0 +1,5 @@
+{
+  "name": "PinGenie AI",
+  "description": "A premium AI-powered tool to generate optimized Pinterest pin prompts from your blog content using Gemini, OpenAI, or Groq.",
+  "requestFramePermissions": []
+}
